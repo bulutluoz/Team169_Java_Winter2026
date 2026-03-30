@@ -70,6 +70,8 @@ public class C04_StaticVariables {
         //System.out.println(C02_Hemsire.hemIsmi);
         //System.out.println(hemAdresi);
 
+        System.out.println(h1); // week06_staticKeyword.C02_Hemsire@e580929
+
 
 
 
