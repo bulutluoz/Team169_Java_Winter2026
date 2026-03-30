@@ -48,7 +48,7 @@ public class C01_DataClass {
 
     private int sayiPrivateI;
     String strDefaultAccModI; // default access modifier
-    protected char chrProtectedI;
+    protected char chrProtectedI = 'a';
     public double dblPublicI;
 
     public static void method1(){
